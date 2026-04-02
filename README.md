@@ -29,8 +29,10 @@
 | Name | Affiliation |
 |:---|:---|
 | **Preetham SK** (First Inventor) | School of Electrical Engineering, VIT Chennai |
+| **Sreehari R** (First Inventor) | School of Electrical Engineering, VIT Chennai |
 | Dr. P. Sasipriya | Professor Grade 1, CNVD, School of Electronics Engineering, VIT Chennai |
-
+| Dr. A. Anita Angeline | Professor, CNVD, School of Electronics Engineering, VIT Chennai |
+| Prof. V. Anantha Krishnan | Assistant Professor, School of Electrical Engineering, VIT Chennai |
 
 
 ## 🔍 Overview
